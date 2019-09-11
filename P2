@@ -1,0 +1,12 @@
+Generate 10 random words
+Print each out in reverse.
+
+Variants
+Generate a random sentence, and output the sentence in reverse.
+E.g. I am a boy becomes yob a ma I.
+Generate a random sentence, and output the reverse of each word of the sentence.
+E.g. I am a boy becomes I ma a yob.
+
+Solution
+-----------
+https://stackblitz.com/edit/all-about-words
