@@ -1,0 +1,18 @@
+Generate a random number.
+Format the number as a monetary amount.
+Print out the amount in words.
+
+Examples:
+30,456.00 => Thirty thousand, four hundred and fifty six naira only 
+304.56 => Three hundred and four naira, fifty six kobo only
+
+Constraints
+The amount genrated must be a valid positive integer.
+The amount must be properly formated ###,###,###.##
+The amount should not be greater than 999,999,999.00 i.e. 1 billion.
+
+Solution
+-------------
+with Kobo & Library(https://repl.it/@devpilot/Money-Generator)
+With international library (https://repl.it/@devpilot/Money-Generator-Library)
+With faker for data (https://repl.it/@devpilot/money-word-gen)
