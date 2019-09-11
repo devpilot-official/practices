@@ -1,0 +1,16 @@
+Write a program to convert from base 10 to base n.
+
+Generate a random number n.
+Generate a random integer in base 10.
+Convert the integer to base n, and output the result.
+
+Things to consider
+Make sure the value of n is an integer between 2 and INFINITY.
+Make sure the decimal value is a positive integer.
+
+Variants
+Handle floating point values.
+
+Solution
+---------------
+https://repl.it/@devpilot/number-convert
